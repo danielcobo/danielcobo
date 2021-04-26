@@ -1,8 +1,8 @@
 ## Get user's preferred languages with JavaScript
 
-If you have different language settings in your website or application wouldn't it be great if you could automatically set the language the user prefers? Doing so may be easer than you think. All you have to do is use `navigator.language` or better, `navigator.languages`.
-
 [Skip to solution](#solution)
+
+If you have different language settings in your website or application wouldn't it be great if you could automatically set the language the user prefers? Doing so may be easer than you think. All you have to do is use `navigator.language` or better, `navigator.languages`.
 
 ## What's the difference between `navigator.language` and `navigator.languages`?
 
