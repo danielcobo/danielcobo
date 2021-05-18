@@ -28,6 +28,8 @@ typeof true; //boolean
 typeof false; //boolean
 
 typeof function(){}; //function
+
+typeof iamundefined //undefined
 ``` 
 
 It kinda sucks if you need to check:
