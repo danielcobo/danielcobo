@@ -6,7 +6,7 @@
 - [Bulletproof type checks in JavaScript](https://danielcobo.com/bulletproof-type-checks-in-javascript)
 - [Get the first and last moment of a day in Javascript](https://danielcobo.com/get-the-first-and-last-moment-of-a-day-in-javascript)
 - [Check if the user is from EU with JavaScript](https://danielcobo.com/check-if-the-user-is-from-eu-with-javascript)
-- [Get user's preferred languages with JavaScript](https://danielcobo.com/get-users-preferred-languages-with-javascript)
+- [Get user&#39;s preferred languages with JavaScript](https://danielcobo.com/get-users-preferred-languages-with-javascript)
 - [Get location by IP with JavaScript](https://danielcobo.com/get-location-by-ip-with-javascript)
 <!-- BLOG-POST-LIST:END -->
 
