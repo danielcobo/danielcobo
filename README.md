@@ -42,7 +42,6 @@ Aside from [my own repos](https://github.com/danielcobo?tab=repositories), I've 
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Bulletproof type checks in JavaScript](https://danielcobo.com/bulletproof-type-checks-in-javascript)
 - [Get the first and last moment of a day in Javascript](https://danielcobo.com/get-the-first-and-last-moment-of-a-day-in-javascript)
 - [Check if the user is from EU with JavaScript](https://danielcobo.com/check-if-the-user-is-from-eu-with-javascript)
