@@ -16,3 +16,7 @@
 - [MDN Web Docs](https://github.com/mdn/yari/blob/main/client/src/assets/logo.svg)
 - [Netlify](https://github.com/gilbarbara/logos/blob/master/logos/netlify.svg)
 - [NPM](https://github.com/gilbarbara/logos/blob/master/logos/npm.svg)
+
+## Social
+- [Twitter](https://github.com/gilbarbara/logos/blob/master/logos/twitter.svg)
+- [Dribbble](https://github.com/gilbarbara/logos/blob/master/logos/dribbble-icon.svg)
