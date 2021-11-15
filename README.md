@@ -14,16 +14,16 @@ I've been tinkering with code since I was a kid and ActionScript was still a thi
 
 These are my current favorites, but feel free to ask me about stuff not listed below.
 
-[<img src="src/logos/html.svg" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="src/logos/css.svg" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="src/logos/javascript.svg" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[<img src="src/logos/nodejs.svg" height="36"></img>](https://nodejs.org/en/)
-[<img src="src/logos/postgresql.svg" height="36"></img>](https://www.postgresql.org)
-[<img src="src/logos/firebase.svg" height="36"></img>](https://firebase.google.com)
-[<img src="src/logos/netlify.svg" height="36"></img>](https://www.netlify.com)
-[<img src="src/logos/jest.svg" height="36"></img>](http://jestjs.io)
-[<img src="src/logos/stryker.svg" height="36"></img>](http://stryker-mutator.io)
-[<img src="src/logos/rollup.svg" height="36"></img>](http://rollupjs.org)
+[<img src="src/logos/html.svg" alt="HTML" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="src/logos/css.svg" alt="CSS" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="src/logos/javascript.svg" alt="JavaScript" height="36"></img>](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[<img src="src/logos/nodejs.svg" alt="Node JS" height="36"></img>](https://nodejs.org/en/)
+[<img src="src/logos/postgresql.svg" alt="Postgre SQL" height="36"></img>](https://www.postgresql.org)
+[<img src="src/logos/firebase.svg" alt="Firebase" height="36"></img>](https://firebase.google.com)
+[<img src="src/logos/netlify.svg" alt="Netlify" height="36"></img>](https://www.netlify.com)
+[<img src="src/logos/jest.svg" alt="Jest" height="36"></img>](http://jestjs.io)
+[<img src="src/logos/stryker.svg" alt="Stryker Mutator" height="36"></img>](http://stryker-mutator.io)
+[<img src="src/logos/rollup.svg" alt="Rollup" height="36"></img>](http://rollupjs.org)
 
 ---
 
@@ -33,9 +33,10 @@ I've mostly been working with consulting, medical and government institutions wh
 
 Aside from [my own repos](https://github.com/danielcobo?tab=repositories), I've also contributed to:
 
-[<img src="src/logos/couchdb.svg" height="36"></img>](https://couchdb.apache.org)
-[<img src="src/logos/mdnwebdocs.svg" height="36"></img>](https://developer.mozilla.org/en-US/)
-[<img src="src/logos/npm.svg" height="36"></img>](http://npmjs.com)
+[<img src="src/logos/couchdb.svg" alt="Couch DB" height="36"></img>](https://couchdb.apache.org)
+[<img src="src/logos/mdnwebdocs.svg" alt="MDN Web Docs" height="36"></img>](https://developer.mozilla.org/en-US/)
+[<img src="src/logos/npm.svg" alt="NPM CLI" height="36"></img>](http://npmjs.com)
+[<img src="src/logos/netlify.svg" alt="Netlify CMS" height="36"></img>](https://www.netlifycms.org)
 
 ---
 
